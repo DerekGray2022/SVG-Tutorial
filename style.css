@@ -5,30 +5,14 @@
     box-sizing: border-box;
 }
 
-body
+/* body
 {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     background-color: #333;
-}
-
-.smiley
-{
-    width: 200px;
-    height: auto;
-}
-
-#Eyes path
-{
-    fill: chartreuse;
-}
-
-#Face
-{
-    fill: red;
-}
+} */
 
 
 
