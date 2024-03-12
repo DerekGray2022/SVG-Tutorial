@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="800px" viewBox="0 0 800 800" enable-background="new 0 0 800 800" xml:space="preserve">
+<circle id="Face" fill="#F7B239" cx="399.999" cy="399.999" r="400"/>
+<path id="Moth_2_" fill="#FFFFFF" d="M242.043,640.516c-45.578-32.97-80.588-79.621-98.991-133.972H661.5
+	c-18.402,54.351-53.41,101.002-98.989,133.972c0,0-68.678,49.317-159.011,49.317S242.043,640.516,242.043,640.516z"/>
+<g id="Eyes">
+	<circle fill="#FFFFFF" cx="213.924" cy="307.223" r="70.5"/>
+	<path fill="#4D4D4D" d="M213.924,366.819c32.861,0,59.596-26.734,59.596-59.597c0-32.861-26.734-59.595-59.596-59.595
+		s-59.596,26.734-59.596,59.595C154.328,340.085,181.063,366.819,213.924,366.819z"/>
+	<circle fill="#FFFFFF" cx="567.207" cy="308.077" r="70.5"/>
+	<path fill="#4D4D4D" d="M567.207,366.819c32.861,0,59.596-26.734,59.596-59.597c0-32.861-26.734-59.595-59.596-59.595
+		s-59.596,26.734-59.596,59.595C507.611,340.085,534.346,366.819,567.207,366.819z"/>
+</g>
+</svg>
