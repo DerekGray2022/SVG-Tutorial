@@ -5,40 +5,52 @@
     box-sizing: border-box;
 }
 
-/* body
+body
 {
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #333;
-} */
-
-
-/* .svgCircle
-{
-    border: 2px solid chocolate;
-    width: 150px;
-    height: 50px;
-} */
-
-/* circle
-{
-    r: 50px;
-    cx: 100px;
-    cy: 50px;
-} */
-
-.svgLogos
-{
-    border: 2px solid chocolate;
-    width: 130px;
-    height: 100px;
+    background-color: #ccf;
 }
 
-#github path
+.hamburger
 {
-    fill: red;
+    width: 600px;
+}
+
+.toppings
+{
+    margin-top: 1em;
+    font-size: 2.5rem;
+}
+
+.buttons
+{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: 2rem auto;
+}
+
+button
+{
+    padding: 0.5rem 1rem;
+    border-radius: 10px;
+    background-color: teal;
+    color: white;
+}
+
+.sesame path, .sesame ellipse
+{
+    fill: brown;
+    /* opacity: 0.75; */
+}
+
+.removed
+{
+    display: none;
 }
 
 
