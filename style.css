@@ -12,46 +12,38 @@ body
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ccf;
+    background-color: rgb(177, 212, 255);
 }
 
-.hamburger
+#hamburger
 {
-    width: 600px;
+    /* background-color: rgb(148, 205, 252); */
 }
 
-.toppings
+/* #hamburger:hover #line-one,
+#hamburger:hover #line-two,
+#hamburger:hover #line-three
 {
-    margin-top: 1em;
-    font-size: 2.5rem;
+    transform-origin: 50% 50%;
+    animation: line-grow ease-out 500ms;
 }
 
-.buttons
+#hamburger:hover #line-two
 {
-    display: flex;
-    justify-content: space-between;
-    width: 500px;
-    margin: 2rem auto;
+    animation-delay: 150ms;
 }
 
-button
+#hamburger:hover #line-three
 {
-    padding: 0.5rem 1rem;
-    border-radius: 10px;
-    background-color: teal;
-    color: white;
-}
+    animation-delay: 300ms;
+} */
 
-.sesame path, .sesame ellipse
-{
-    fill: brown;
-    /* opacity: 0.75; */
-}
+/* @keyframes line-grow {
+    0% { transform: scaleX(1) }
+    50% { transform: scaleX(1.25) }
+    100% { transform: scaleX(1) }
+} */
 
-.removed
-{
-    display: none;
-}
 
 
 

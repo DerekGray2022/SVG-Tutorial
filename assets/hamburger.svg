@@ -1,0 +1,6 @@
+<svg id="hamburger" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300">
+	<line id="line-one" fill="none" stroke="#000000" stroke-width="11" stroke-miterlimit="10" x1="73" y1="128" x2="226" y2="128"/>
+	<line id="line-two" fill="none" stroke="#000000" stroke-width="11" stroke-miterlimit="10" x1="73" y1="150" x2="226" y2="150"/>
+	<line id="line-three" fill="none" stroke="#000000" stroke-width="11" stroke-miterlimit="10" x1="73" y1="172" x2="226" y2="172"/>
+</svg>
